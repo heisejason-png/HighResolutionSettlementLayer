@@ -53,4 +53,5 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## License
 HighResolutionSettlementLayer is MIT licensed, as found in the LICENSE file.
-Created by Jason Heise  https://paulwalkerfoundation.org  https://www.x.com
+Created by Jason Heise  
+Owned by Jason Heise heisejason-png Giters
